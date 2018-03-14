@@ -1,3 +1,3 @@
 # rusalinastaneva.github.io
 
-<a href="https://rusalinastaneva.github.io/">Blog with HTML5 and CSS</a> 
+<a href="https://rusalinastaneva.github.io/">SoftUni Blog with HTML5 and CSS</a> 
